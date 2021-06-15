@@ -184,7 +184,7 @@ void tracking()
     lcd_status();
 }
 
-******* // FORMAT of the MESSAGE ******* 
+// *******  FORMAT of the MESSAGE is: ******* 
 
 // https://www.google.com.bd/maps/@latitude-coordinate,longitude-coordinate,16.58z
 // latitude: "latitude coordinates"
